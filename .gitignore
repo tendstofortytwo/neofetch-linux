@@ -1,5 +1,5 @@
 bin
 iso
-neofetch-linux.iso
+*.iso
 crosscompile
 kernel
